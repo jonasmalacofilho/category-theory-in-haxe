@@ -1,0 +1,6 @@
+--interp
+-main Main
+-lib assertion
+-lib utest
+-cp src
+
